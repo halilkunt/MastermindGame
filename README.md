@@ -1,0 +1,1 @@
+The Odin Project Mastermind Game. It's very basic and might contain bugs that I didn't see. Also need some features that I didn't add.
